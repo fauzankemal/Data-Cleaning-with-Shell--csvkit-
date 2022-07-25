@@ -1,10 +1,10 @@
 # Data Cleaning with Shell
 
+fauzan-8mHG
+
 #### Description
 
 A simple cleaning shell script to clean ecommerce activity data in `csv` format. 
-
-
 
 There are 6 main steps in cleaning the data:
 
@@ -18,8 +18,6 @@ There are 6 main steps in cleaning the data:
 
 5. Reorder column using `csvcut`
 
-
-
 #### How to Run
 
 - Make sure that `csvkit` and python has been installed in your shell
@@ -27,8 +25,6 @@ There are 6 main steps in cleaning the data:
 - Make sure that the database and `Data_clean.sh` are in the same folder
 
 - Run `Data_clean.sh` in your shell. The shell will produce `2019-Oct-Nov-sample-clean.csv` as cleaned data
-
-
 
 #### Future improvements
 
